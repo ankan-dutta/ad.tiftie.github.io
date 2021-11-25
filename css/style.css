@@ -194,7 +194,7 @@ a {
 
 .head h1{font-size: 45px ; color: #f50a57; font-family: 'Poppins', sans-serif;}
 
-.head p{padding: 0 20%; color: #808080; line-height: 1.5; font-size: 14px}
+.head p{padding: 0 15%; color: #808080; line-height: 1.5; font-size: 14px}
 
 .black{color:  black;font-family: 'Poppins', sans-serif;}
 
@@ -945,7 +945,7 @@ input[type=submit]:hover {
 
 
 
-.counts{background-color: #460023; margin-top: 150px}
+.counts{background-color: #f50a57; margin-top: 150px}
 .counter{display: flex; justify-content: space-around; }
 .count-box{text-align: center; padding: 50px 0 70px 0}
 
@@ -1006,7 +1006,7 @@ input[type=submit]:hover {
 
 .icon-bar {
   position: fixed;
-  bottom: 0;
+  bottom: 30%;
   
 	z-index: 999999999;
 }
@@ -1049,3 +1049,6 @@ input[type=submit]:hover {
   color: white;
 }
 
+
+
+.gap{margin: 120px 0}
